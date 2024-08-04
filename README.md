@@ -2,7 +2,8 @@
 
 # Presentation
 
-Hi there 👋 Welcome to my GitHub repository! 
+Hi there 👋 Welcome to my GitHub repository!
+I'm a MSc student at UNIME
 <!--
 **GioTKD/GioTKD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
