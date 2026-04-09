@@ -3,7 +3,7 @@
 # Presentation
 
 Hi there 👋 Welcome to my GitHub repository!
-I'm a Researcher at UNIME
+I'm a PhD Student at UNIME
 <!--
 **GioTKD/GioTKD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
